@@ -1,15 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1, Frankenstein 2025
+################################################################################
+# MOVIES
+################################################################################
+
+#EXTINF:-1,Frankenstein 2025
 https://sea1-4.download.real-debrid.com/d/F76CLHPIP3EES90/Frankenstein%20%282025%29%20UHDRDV%20cz%20en.mkv
 
-#EXTINF:-1, Good Fortune 2025
+#EXTINF:-1,Good Fortune 2025
 https://sea1-4.download.real-debrid.com/d/U5QN7FIF7AWLC113/Good.Fortune.2025.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
 
 #EXTINF:-1,The Astronaut 2025
 https://sea3-4.download.real-debrid.com/d/4L3MFI65T3PJ645/The%20Astronaut%202025%201080p%20WEB-DL%20HEVC%20x265%20BONE.mkv
 
-#EXTINF:-1,Play dirty 2025
+#EXTINF:-1,Play Dirty 2025
 https://sea3-4.download.real-debrid.com/d/6SDIAKQNB5EDS96/Play.Dirty.2025.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
 
 #EXTINF:-1,Splitsville 2025
@@ -25,104 +29,88 @@ https://eu-download-storage-11.divyacamilla.info/download/2/11/1681490/1866262/6
 https://eu-download-storage-11.divyacamilla.info/download/2/11/1681490/1869146/695965/2604:3d09:797e:7f10:58b5:c003:7602:f8f3/1760823182/3002078b094936e152157e7df614d0ae2ef4a8d3d25b88ad128c0e510c/movies/h/Honey_Dont_2025_10bit_2160p_x265_WEB-DL_6CH_YIFY_30NAMA.mkv
 
 
+################################################################################
+# TV SERIES
+################################################################################
 
-
-
-# # Pluribus:
-#EXTINF:-1, Pluribus S01E01
+# ===== Pluribus =====
+#EXTINF:-1,Pluribus S01E01
 https://sea2-4.download.real-debrid.com/d/CR33BXTVBGQSI45/Pluribus.S01E01.Noi.siamo.noi.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv
 
-#EXTINF:-1, Pluribus S01E02
+#EXTINF:-1,Pluribus S01E02
 https://sea2-4.download.real-debrid.com/d/XH5GPTVAVW66E21/Pluribus%20S01E02%20Pirate%20Lady%202160p%20ATVP%20WEB-DL%20DD%205%201%20Atmos%20DoVi%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, Pluribus S01E03
+#EXTINF:-1,Pluribus S01E03
 https://sea4-4.download.real-debrid.com/d/MMZSJEGON7ZU244/Pluribus%20S01E03%20Grenade%202160p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20DV%20HDR%20H%20265-FLUX.mkv
 
-#EXTINF:-1, The last frontier S01E01
+
+# ===== The Last Frontier =====
+#EXTINF:-1,The Last Frontier S01E01
 https://sea4-4.download.real-debrid.com/d/AFLLVTFOEFTKC23/The%20Last%20Frontier%202025%20S01E01%20Blue%20Skies%202160p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20H%20265-playWEB.mkv
 
-
-
-
-
-
-# # The last frontier:
-#EXTINF:-1, The last frontier S01E02
+#EXTINF:-1,The Last Frontier S01E02
 https://sea3-4.download.real-debrid.com/d/IRW2ZHUYFZ2LM74/The%20Last%20Frontier%202025%20S01E02%20Wind%20of%20Change%202160p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20H%20265-Kitsune.mkv
 
-#EXTINF:-1, The last frontier S01E03
+#EXTINF:-1,The Last Frontier S01E03
 https://sea2-4.download.real-debrid.com/d/S7VTDJVVZUAR423/The%20Last%20Frontier%202025%20S01E03%20Country%20as%20Fk%202160p%20ATVP%20WEB-DL%20DDP5%201%20DV%20H%20265-NTb.mkv
 
-#EXTINF:-1, The last frontier S01E04
+#EXTINF:-1,The Last Frontier S01E04
 https://sea4-4.download.real-debrid.com/d/OPGR4PNHVRISM109/The.Last.Frontier.2025.S01E04.American.Dream.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv
 
-#EXTINF:-1, The last frontier S01E05
+#EXTINF:-1,The Last Frontier S01E05
 https://sea4-4.download.real-debrid.com/d/Q6IWHI47BYTTU45/The%20Last%20Frontier%202025%20S01E05%20Arnaq%202160p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20DV%20HDR%20H%20265-FLUX.mkv
 
-#EXTINF:-1, The last frontier S01E06
+#EXTINF:-1,The Last Frontier S01E06
 https://sea4-4.download.real-debrid.com/d/JGKMRYXBXVWMW103/The.Last.Frontier.2025.S01E06.The.Devil.Wears.a.Suit.and.Tie.ITA.ENG.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-MeM.GP.mkv
 
 
-
-
-
-# # All Her Fault:
-#EXTINF:-1, All Her Fault S01E01 
+# ===== All Her Fault =====
+#EXTINF:-1,All Her Fault S01E01
 https://sea1-4.download.real-debrid.com/d/4JHEQCRAZGALE45/All%20Her%20Fault%20S01E01%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, All Her Fault S01E02
+#EXTINF:-1,All Her Fault S01E02
 https://sea4-4.download.real-debrid.com/d/FV4FDBYEL2NA220/All%20Her%20Fault%20S01E02%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, All Her Fault S01E03
+#EXTINF:-1,All Her Fault S01E03
 https://sea1-4.download.real-debrid.com/d/GNGCKZMZT7XDY105/all.her.fault.s01e03.1080p.web.h264-sylix%5BEZTVx.to%5D.mkv
 
-#EXTINF:-1, All Her Fault S01E04
+#EXTINF:-1,All Her Fault S01E04
 https://sea4-4.download.real-debrid.com/d/QZFVYI6T6U44Q22/All%20Her%20Fault%20S01E04%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, All Her Fault S01E05
+#EXTINF:-1,All Her Fault S01E05
 https://sea2-4.download.real-debrid.com/d/5L4Z2GNVQNTIQ21/All%20Her%20Fault%20S01E05%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, All Her Fault S01E06
+#EXTINF:-1,All Her Fault S01E06
 https://sea1-4.download.real-debrid.com/d/ND4LLNLPYBC7G22/All%20Her%20Fault%20S01E06%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
-#EXTINF:-1, All Her Fault S01E07
+#EXTINF:-1,All Her Fault S01E07
 https://sea2-4.download.real-debrid.com/d/5UX3MFKEXIGBS44/All%20Her%20Fault%20S01E07%202160p%20AMZN%20WEB-DL%20DD%205%201%20HDR%20H%20265-playWEB.mkv
 
 
-
-
-
-
-# # Trying:
-#EXTINF:-1, Trying S01E01
+# ===== Trying =====
+#EXTINF:-1,Trying S01E01
 https://sea4-4.download.real-debrid.com/d/Z5AQWQP4JECV244/Trying%20S01E01%20Nikki%20and%20Jason%201080p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20H%20264-FLUX.mkv
 
-#EXTINF:-1, Trying S01E02
+#EXTINF:-1,Trying S01E02
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1314365/256959/2604:3d09:797e:7f10:f15b:de35:95a3:8d8d/1764822643/3000def6cbddaaf47ec833b1b828d2abaa5f3b7083cd214615f2c335a4/series/trying/Trying_S01E02_10bit_x265_1080p_WEB-DL_30nama_30NAMA.mkv
 
-#EXTINF:-1, Trying S01E03
+#EXTINF:-1,Trying S01E03
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1314366/256959/2604:3d09:797e:7f10:f15b:de35:95a3:8d8d/1764822643/3023272c84919dbd5983794ee0aa9a3f2feac15bef108f6ee69f0ef6ca/series/trying/Trying_S01E03_10bit_x265_1080p_WEB-DL_30nama_30NAMA.mkv
 
-#EXTINF:-1, Trying S01E04
+#EXTINF:-1,Trying S01E04
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1314367/256959/2604:3d09:797e:7f10:f15b:de35:95a3:8d8d/1764822643/30dfc159c98255aadef969c327d00162c4f3595d4f64d0de2eb419198a/series/trying/Trying_S01E04_10bit_x265_1080p_WEB-DL_30nama_30NAMA.mkv
 
-#EXTINF:-1, Trying S01E05
+#EXTINF:-1,Trying S01E05
 https://sea2-4.download.real-debrid.com/d/IVITDPSDSTSQW45/trying.s04e05.hdr.2160p.web.h265-successfulcrab.mkv
 
-#EXTINF:-1, Trying S01E06
+#EXTINF:-1,Trying S01E06
 https://sea1-4.download.real-debrid.com/d/PGUV4D3BWBDAM23/Trying%20S01E06%20Show%20Me%20the%20Love%201080p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20H%20264-FLUX.mkv
 
-#EXTINF:-1, Trying S01E07
+#EXTINF:-1,Trying S01E07
 https://sea2-4.download.real-debrid.com/d/RFNB7S75N2QPE22/Trying%20S01E07%20Good%20Old%20Family%20Map%201080p%20ATVP%20WEB-DL%20DDP5%201%20Atmos%20H%20264-FLUX.mkv
 
 
-
-
-
-
-
-
-# # Task:
+# ===== Task =====
 #EXTINF:-1,Task 2025 S01E01
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1868495/696375/2604:3d09:797e:7f10:58b5:c003:7602:f8f3/1760818957/308c9a5bc571c2889c527d2456b667d5c95ef8bb3571ca8d1074c72847/series/task_2025/Task_2025_S01E01_10bit_x265_1080p_WEBRip_6CH_PSA_30NAMA.mkv
 
@@ -136,10 +124,7 @@ https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1875648/6
 https://sea4-4.download.real-debrid.com/d/T64W5YVE6DDFS20/Task%20S01E04%20All%20Roads%202160p%20HMAX%20WEB-DL%20DDP5%201%20Atmos%20DV%20HDR%20H%20265-STC.mkv
 
 
-
-
-
-# # Alien Earth:
+# ===== Alien Earth =====
 #EXTINF:-1,Alien Earth S01E01
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1856103/445058/2604:3d09:797e:7f10:58b5:c003:7602:f8f3/1760821166/3060be0b523efd722de73a5fe83ace9a07317622a7a8f3174c407aa95b/series/alien_earth/Alien_Earth_S01E01_10bit_DV_HDR_x265_2160p_WEBRip_6CH_PSA_30NAMA.mkv
 
@@ -165,12 +150,7 @@ https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1872977/4
 https://sea1-4.download.real-debrid.com/d/L7YAJQXC6IGKS78/Alien.Earth.S01E08.4K.HDR.DV.2160p%20WEBDL%20Ita%20Eng%20x265-NAHOM.mkv
 
 
-
-
-
-
-
-# # Black Rabbit:
+# ===== Black Rabbit =====
 #EXTINF:-1,Black Rabbit S01E01
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1873885/700419/2604:3d09:797e:7f10:58b5:c003:7602:f8f3/1760822101/30fc63309e3b686c25496f2444763af756eb9534058d77def11c63b204/series/black_rabbit/Black_Rabbit_S01E01_10bit_x265_1080p_WEBRip_6CH_PSA_30NAMA.mkv
 
@@ -194,7 +174,3 @@ https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1873891/7
 
 #EXTINF:-1,Black Rabbit S01E08
 https://eu-download-storage-12.divyacamilla.info/download/2/12/1681490/1873892/700419/2604:3d09:797e:7f10:58b5:c003:7602:f8f3/1760822101/30e94eb9e93b183f33900a93cfea11e47c62c73e4eae7148e3c1c14871/series/black_rabbit/Black_Rabbit_S01E08_10bit_x265_1080p_WEBRip_6CH_PSA_30NAMA.mkv
-
-
-
-
