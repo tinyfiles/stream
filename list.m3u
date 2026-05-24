@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, the boys s05e01
+#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-id="123", My Video
 https://nexus-120.wnam.tb-cdn.io/dld/9a250661-f395-442a-9c0f-ae2fed948fd7?token=f039c650-3d0b-4f18-a267-6b61f72840f6
