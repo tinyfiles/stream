@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-id="123", movie
+#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-id="123", The Miniature Wife S01E04
+https://nexus-125.wnam.tb-cdn.io/dld/4dbd2f13-d1b6-48d0-a9ba-1e61e6db8bc5?token=f039c650-3d0b-4f18-a267-6b61f72840f6
+
+#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-id="123", The Miniature Wife S01E05
 https://store-013.wnam.tb-cdn.io/dld/4011efcf-08d1-4e97-a3ac-8218a91a5d8b?token=f039c650-3d0b-4f18-a267-6b61f72840f6
