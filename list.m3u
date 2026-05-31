@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movies", the Movie 2026
-https://store-013.wnam.tb-cdn.io/dld/b683b407-c2e2-421c-bfb7-082f17f518f6?token=f039c650-3d0b-4f18-a267-6b61f72840f6
-
-
-
-
-
+#EXTINF:-1 group-title="Series", Spider-Noir S01E01
+https://store-076.wnam.tb-cdn.io/dld/1effaf77-8f8b-4658-b427-2582b333277f?token=f039c650-3d0b-4f18-a267-6b61f72840f6
+#EXTINF:-1 group-title="Series", Spider-Noir S01E02
+https://store-076.wnam.tb-cdn.io/dld/75c36b5c-99bc-4a6f-be4a-2e1db9632645?token=f039c650-3d0b-4f18-a267-6b61f72840f6
