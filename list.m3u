@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="serie", From S04E09
-#EXTVLCOPT:sub-file=https://raw.githubusercontent.com/tinyfiles/stream/refs/heads/main/sub.srt
-https://store-076.wnam.tb-cdn.io/dld/c0336adc-280e-4b86-a2e9-3de10d39e78b?token=f039c650-3d0b-4f18-a267-6b61f72840f6&filename=From.S04E09.The.Calm.Before.2160p.AMZN.WEB-DL.DDP5.1.H.265-NTb.mkv
+#EXTINF:-1 tvg-type="serie", House.of.the.Dragon.S03E02.ITA.ENG.2160p
+https://store-044.wnam.tb-cdn.io/dld/cbf77150-b91c-4c37-aa8d-853ddea4553b?token=f039c650-3d0b-4f18-a267-6b61f72840f6&filename=House.of.the.Dragon.S03E02.ITA.ENG.2160p.HMAX.WEB-DL.DDP5.1.DV.HDR.H.265-MeM.GP.mkv
