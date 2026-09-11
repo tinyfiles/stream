@@ -1,10 +1,6 @@
+
 #EXTM3U
 
-#EXTINF:-1 tvg-type="serie", Ted Lasso S04E05 
-https://store-082.wnam.tb-cdn.io/dld/6337d27c-0a94-4b4e-962d-acc0dae867b7?token=f039c650-3d0b-4f18-a267-6b61f72840f6
-
-#EXTINF:-1 tvg-type="serie", Lanterns S01E04
-https://store-039.wnam.tb-cdn.io/dld/e46274a6-3db1-43f8-8379-a099c23c81a6?token=f039c650-3d0b-4f18-a267-6b61f72840f6
-
-#EXTINF:-1 tvg-type="movie", Coyote.vs.Acme.2026
-https://store-080.wnam.tb-cdn.io/dld/34f0e344-705d-4372-8483-5b00b9d86c88?token=f039c650-3d0b-4f18-a267-6b61f72840f6
+# hash:ae10834adb1d76d432fb69266c344c146ad18f37
+#EXTINF:-1 tvg-type="movie", One Night Only (2026) 2160p 4k WEBRip x265 10bit 5.1 YTS YIFY
+https://store-045.wnam.tb-cdn.io/dld/b3543368-acc5-4701-a30c-16a58df4ff6e?token=f039c650-3d0b-4f18-a267-6b61f72840f6
